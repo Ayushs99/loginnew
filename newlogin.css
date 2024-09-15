@@ -1,0 +1,109 @@
+body{
+    background-image: url("https://preview.redd.it/cloudes-in-space-and-beuty-of-sapce-v0-shf2lqfxozea1.jpg?width=1080&crop=smart&auto=webp&s=6bcf70d74f9b7188ae41c54cb1eb36a5f82604e1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    min-height: 100vh;
+
+} 
+
+.top-nav a{
+    padding:20px 20px;
+    color: white;
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    display: flex;
+}
+
+.top-nav a:hover {
+    background-color: #1ccdf9;
+    color: black;
+}
+
+
+.wrapper{
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+    height: 370px;
+    background: transparent;
+    border: 2px solid white;
+    position: relative;
+    border-radius: 20px;
+    backdrop-filter: blur(50px);
+    box-shadow: 0 0 50px white;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+.hi{
+    height: 100px;
+    width: 100px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 3rem;
+    color: white;
+}
+
+.input-box{
+    margin-top: 20px;
+    align-content: center;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+input{
+    background: none;
+    border: none;
+    outline:none;
+    border-bottom:2px solid black;
+    font-size: 15px; 
+    color: black;  
+}
+
+.remember{
+    margin-top:25px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.a{
+    margin-left:30px;
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    margin-left:120px;
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color:white;
+    color: black;
+}
+
+.logreg-link{
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+.register-link{
+    text-decoration: none;
+    outline: none;
+    color: beige;
+}
+
+
